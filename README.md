@@ -61,7 +61,7 @@ The single-file layout is intentional. Plotly Cloud's deployment model uploads a
 ## Running locally
 
 ```bash
-git clone https://github.com/<your-username>/play-calling-analytics.git
+git clone https://github.com/<jekelle>/play-calling-analytics.git
 cd play-calling-analytics
 pip install -r requirements.txt
 python3 app.py

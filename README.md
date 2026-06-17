@@ -64,7 +64,7 @@ The single-file layout is intentional. Plotly Cloud's deployment model uploads a
 git clone https://github.com/<your-username>/play-calling-analytics.git
 cd play-calling-analytics
 pip install -r requirements.txt
-python app.py
+python3 app.py
 ```
 
 The app launches on `http://127.0.0.1:8050`. Synthetic data generators run by default, so the app works immediately with no CSV downloads required.

@@ -17,7 +17,7 @@ Built as the final project for INFO-H 517 Data Visualization, M.S. Sports Analyt
 
 ## Live demo
 
-Hosted on Plotly Cloud. *(Link goes here once the deployment is live.)*
+Hosted on Plotly Cloud. *https://6fba29f6-823c-463d-a75d-c2b4131abd3c.plotly.app/*
 
 ## What's inside
 

@@ -770,7 +770,7 @@ app.layout = html.Div([
                        'the season-defining gap to fix in summer install.'),
             chart_card('chart-ttt',
                        'QB2 holds the ball measurably longer than QB1 '
-                       'Melvin on 3rd down, that fraction of a second is the '
+                       'on 3rd down, that fraction of a second is the '
                        'difference between a clean throw and a sack.'),
         ], style={'display': 'grid',
                   'gridTemplateColumns': 'repeat(auto-fit, minmax(480px, 1fr))',
